@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1591",
+  "folder": "YouTube__watch_20260618014811_ce88ab",
+  "base_name": "How_To_Bulk_Like_A_Pro_(Using_Science)_OqRvmJ2eyBA_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-1591",
+  "files": [
+    {
+      "name": "How_To_Bulk_Like_A_Pro_.Using_Science._OqRvmJ2eyBA_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-1591/How_To_Bulk_Like_A_Pro_.Using_Science._OqRvmJ2eyBA_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450771201",
+      "id": 450771201,
+      "size": 206466748,
+      "download_count": 0
+    }
+  ]
+}
