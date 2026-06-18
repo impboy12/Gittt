@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7436",
+  "folder": "YouTube__watch_20260618022157_f628a2",
+  "base_name": "How_To_Build_A_V-Tapered_Back_Lat_Training_Dos_and_Don_ts_O94yEoGXtBY_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-7436",
+  "files": [
+    {
+      "name": "How_To_Build_A_V-Tapered_Back_Lat_Training_Dos_and_Don_ts_O94yEoGXtBY_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-7436/How_To_Build_A_V-Tapered_Back_Lat_Training_Dos_and_Don_ts_O94yEoGXtBY_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450792753",
+      "id": 450792753,
+      "size": 88357015,
+      "download_count": 0
+    }
+  ]
+}
