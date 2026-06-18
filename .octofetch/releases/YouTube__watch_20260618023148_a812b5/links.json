@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6672",
+  "folder": "YouTube__watch_20260618023148_a812b5",
+  "base_name": "Jordan_Peterson_How_To_Become_The_Person_You_ve_Always_Wanted_To_Be_E1_3uLDin9A9pc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-6672",
+  "files": [
+    {
+      "name": "Jordan_Peterson_How_To_Become_The_Person_You_ve_Always_Wanted_To_Be_E1_3uLDin9A9pc_720p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-6672/Jordan_Peterson_How_To_Become_The_Person_You_ve_Always_Wanted_To_Be_E1_3uLDin9A9pc_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450799044",
+      "id": 450799044,
+      "size": 459210280,
+      "download_count": 0
+    }
+  ]
+}
