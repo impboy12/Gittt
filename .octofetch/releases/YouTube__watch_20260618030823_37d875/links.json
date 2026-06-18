@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1300",
+  "folder": "YouTube__watch_20260618030823_37d875",
+  "base_name": "(_)_v6tPmUHi2r0_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-1300",
+  "files": [
+    {
+      "name": "_._v6tPmUHi2r0_360p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-1300/_._v6tPmUHi2r0_360p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450822142",
+      "id": 450822142,
+      "size": 19757897,
+      "download_count": 0
+    }
+  ]
+}
