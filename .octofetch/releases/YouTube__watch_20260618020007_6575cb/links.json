@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6039",
+  "folder": "YouTube__watch_20260618020007_6575cb",
+  "base_name": "The_Best_Worst_TRICEPS_Exercises_(Ranked_Using_Science)_OpRMRhr0Ycc_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-6039",
+  "files": [
+    {
+      "name": "The_Best_Worst_TRICEPS_Exercises_.Ranked_Using_Science._OpRMRhr0Ycc_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-6039/The_Best_Worst_TRICEPS_Exercises_.Ranked_Using_Science._OpRMRhr0Ycc_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450778344",
+      "id": 450778344,
+      "size": 223953679,
+      "download_count": 0
+    }
+  ]
+}
