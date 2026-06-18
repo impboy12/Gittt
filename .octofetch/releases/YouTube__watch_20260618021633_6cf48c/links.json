@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7348",
+  "folder": "YouTube__watch_20260618021633_6cf48c",
+  "base_name": "The_Best_Way_To_Do_Pull_Ups_For_A_Wide_Back_(Optimal_Training_Techniqu_Hdc7Mw6BIEE_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-7348",
+  "files": [
+    {
+      "name": "The_Best_Way_To_Do_Pull_Ups_For_A_Wide_Back_.Optimal_Training_Techniqu_Hdc7Mw6BIEE_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-7348/The_Best_Way_To_Do_Pull_Ups_For_A_Wide_Back_.Optimal_Training_Techniqu_Hdc7Mw6BIEE_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450789232",
+      "id": 450789232,
+      "size": 86369678,
+      "download_count": 0
+    }
+  ]
+}
