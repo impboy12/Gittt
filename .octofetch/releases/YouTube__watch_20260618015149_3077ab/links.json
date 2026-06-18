@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8065",
+  "folder": "YouTube__watch_20260618015149_3077ab",
+  "base_name": "The_Best_And_Worst_Chest_Exercises_(Ranked_By_Science)_fGm-ef-4PVk_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-8065",
+  "files": [
+    {
+      "name": "The_Best_And_Worst_Chest_Exercises_.Ranked_By_Science._fGm-ef-4PVk_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-8065/The_Best_And_Worst_Chest_Exercises_.Ranked_By_Science._fGm-ef-4PVk_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450772874",
+      "id": 450772874,
+      "size": 234764413,
+      "download_count": 0
+    }
+  ]
+}
