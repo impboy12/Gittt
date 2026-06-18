@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5152",
+  "folder": "YouTube__watch_20260618021158_1fa6c3",
+  "base_name": "Why_You_Don_t_Need_8_Glasses_of_Water_a_Day_(Does_Coffee_Count_)_d9dq-yQVqCU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-5152",
+  "files": [
+    {
+      "name": "Why_You_Don_t_Need_8_Glasses_of_Water_a_Day_.Does_Coffee_Count_._d9dq-yQVqCU_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-5152/Why_You_Don_t_Need_8_Glasses_of_Water_a_Day_.Does_Coffee_Count_._d9dq-yQVqCU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450786218",
+      "id": 450786218,
+      "size": 44447963,
+      "download_count": 0
+    }
+  ]
+}
