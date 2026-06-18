@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9674",
+  "folder": "YouTube__watch_20260618022713_bf9bf8",
+  "base_name": "Robert_Greene_How_To_Seduce_Anyone_Build_Confidence_Become_Powerful_E2_Qv70RMUFlu0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-9674",
+  "files": [
+    {
+      "name": "Robert_Greene_How_To_Seduce_Anyone_Build_Confidence_Become_Powerful_E2_Qv70RMUFlu0_720p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-9674/Robert_Greene_How_To_Seduce_Anyone_Build_Confidence_Become_Powerful_E2_Qv70RMUFlu0_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450795982",
+      "id": 450795982,
+      "size": 324332500,
+      "download_count": 0
+    }
+  ]
+}
