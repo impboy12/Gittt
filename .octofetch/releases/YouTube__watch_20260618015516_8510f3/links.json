@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7748",
+  "folder": "YouTube__watch_20260618015516_8510f3",
+  "base_name": "The_Best_Worst_Glute_Exercises_(According_To_Science)_3ryh7PNhz3E_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-7748",
+  "files": [
+    {
+      "name": "The_Best_Worst_Glute_Exercises_.According_To_Science._3ryh7PNhz3E_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-7748/The_Best_Worst_Glute_Exercises_.According_To_Science._3ryh7PNhz3E_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450775019",
+      "id": 450775019,
+      "size": 268644134,
+      "download_count": 0
+    }
+  ]
+}
