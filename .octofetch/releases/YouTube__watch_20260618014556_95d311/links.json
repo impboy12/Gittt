@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7761",
+  "folder": "YouTube__watch_20260618014556_95d311",
+  "base_name": "7_Amazing_Exercises_No_One_Does_(ALL_S_TIER)_qpRGnTTcLpo_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-7761",
+  "files": [
+    {
+      "name": "7_Amazing_Exercises_No_One_Does_.ALL_S_TIER._qpRGnTTcLpo_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-7761/7_Amazing_Exercises_No_One_Does_.ALL_S_TIER._qpRGnTTcLpo_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450769884",
+      "id": 450769884,
+      "size": 116018701,
+      "download_count": 0
+    }
+  ]
+}
