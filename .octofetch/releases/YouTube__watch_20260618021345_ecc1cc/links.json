@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2401",
+  "folder": "YouTube__watch_20260618021345_ecc1cc",
+  "base_name": "7_Fitness_Myths_Completely_Busted_With_Science_lcgo8KbeqUg_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-2401",
+  "files": [
+    {
+      "name": "7_Fitness_Myths_Completely_Busted_With_Science_lcgo8KbeqUg_720p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-2401/7_Fitness_Myths_Completely_Busted_With_Science_lcgo8KbeqUg_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450787191",
+      "id": 450787191,
+      "size": 40185551,
+      "download_count": 0
+    }
+  ]
+}
