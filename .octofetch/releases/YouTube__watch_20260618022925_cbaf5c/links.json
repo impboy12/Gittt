@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7269",
+  "folder": "YouTube__watch_20260618022925_cbaf5c",
+  "base_name": "Leading_Neuroscientist_Stress_Leaks_Through_Skin_Is_Contagious_Gives_Y_hCW2NHbWNwA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-7269",
+  "files": [
+    {
+      "name": "Leading_Neuroscientist_Stress_Leaks_Through_Skin_Is_Contagious_Gives_Y_hCW2NHbWNwA_720p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-7269/Leading_Neuroscientist_Stress_Leaks_Through_Skin_Is_Contagious_Gives_Y_hCW2NHbWNwA_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450797346",
+      "id": 450797346,
+      "size": 333928616,
+      "download_count": 0
+    }
+  ]
+}
