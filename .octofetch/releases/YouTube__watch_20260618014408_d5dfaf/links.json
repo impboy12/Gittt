@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4510",
+  "folder": "YouTube__watch_20260618014408_d5dfaf",
+  "base_name": "If_I_Lost_Everything_I_d_Do_THIS_to_Get_to_10_000_Month_in_2026_mwYsapR6cYk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-4510",
+  "files": [
+    {
+      "name": "If_I_Lost_Everything_I_d_Do_THIS_to_Get_to_10_000_Month_in_2026_mwYsapR6cYk_720p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-4510/If_I_Lost_Everything_I_d_Do_THIS_to_Get_to_10_000_Month_in_2026_mwYsapR6cYk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450768879",
+      "id": 450768879,
+      "size": 72767896,
+      "download_count": 0
+    }
+  ]
+}
