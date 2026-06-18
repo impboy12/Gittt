@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3726",
+  "folder": "YouTube__watch_20260618015700_cdc3b5",
+  "base_name": "How_To_Get_A_Huge_Bench_Press_with_Perfect_Technique_vcBig73ojpE_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-3726",
+  "files": [
+    {
+      "name": "How_To_Get_A_Huge_Bench_Press_with_Perfect_Technique_vcBig73ojpE_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-3726/How_To_Get_A_Huge_Bench_Press_with_Perfect_Technique_vcBig73ojpE_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450776313",
+      "id": 450776313,
+      "size": 112828281,
+      "download_count": 0
+    }
+  ]
+}
