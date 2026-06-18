@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3412",
+  "folder": "YouTube__watch_20260618172913_cf5495",
+  "base_name": "(NovaProxy_v3)_R1xAhMOHweA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-3412",
+  "files": [
+    {
+      "name": "NovaProxy_v3._R1xAhMOHweA_720p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-3412/NovaProxy_v3._R1xAhMOHweA_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/451431458",
+      "id": 451431458,
+      "size": 54414429,
+      "download_count": 0
+    }
+  ]
+}
