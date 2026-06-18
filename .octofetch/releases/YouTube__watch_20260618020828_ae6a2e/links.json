@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4177",
+  "folder": "YouTube__watch_20260618020828_ae6a2e",
+  "base_name": "Does_FASTED_Cardio_Burn_More_Fat_(What_The_Science_Says)_IEbWdoceH-A_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-4177",
+  "files": [
+    {
+      "name": "Does_FASTED_Cardio_Burn_More_Fat_.What_The_Science_Says._IEbWdoceH-A_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-4177/Does_FASTED_Cardio_Burn_More_Fat_.What_The_Science_Says._IEbWdoceH-A_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450783494",
+      "id": 450783494,
+      "size": 67737800,
+      "download_count": 0
+    }
+  ]
+}
