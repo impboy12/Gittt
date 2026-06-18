@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6759",
+  "folder": "YouTube__watch_20260618022534_2c535f",
+  "base_name": "How_to_Talk_to_ANYONE_(Once_You_Know_Their_Color_)_ikbcrpowlIs_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittt/releases/tag/co-releases-v1-6759",
+  "files": [
+    {
+      "name": "How_to_Talk_to_ANYONE_.Once_You_Know_Their_Color_._ikbcrpowlIs_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittt/releases/download/co-releases-v1-6759/How_to_Talk_to_ANYONE_.Once_You_Know_Their_Color_._ikbcrpowlIs_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittt/releases/assets/450794975",
+      "id": 450794975,
+      "size": 257378958,
+      "download_count": 0
+    }
+  ]
+}
